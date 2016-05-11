@@ -1,2 +1,2 @@
-# docker-karat
+# docker-karaf
 Docker Karaf 
